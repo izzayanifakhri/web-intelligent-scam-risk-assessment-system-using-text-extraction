@@ -1,6 +1,6 @@
 # Requirements
 
-## Functional requirements (what the system must DO)
+## Functional requirements 
 1. The system shall allow users to enter or paste a suspicious text message for analysis.
 2. The system shall analyze the submitted message using a machine learning model and rule-based indicators.
 3. The system shall classify the message as potentially fraudulent or legitimate based on the analysis.
@@ -9,7 +9,7 @@
 6. The system shall use a Large Language Model (LLM) to generate understandable explanations of why a message is considered potentially fraudulent or legitimate.
 7. The system shall notify users when the submitted message is empty or cannot be analysed successfully.
 
-## Non-functional requirements (how the system must PERFORM)
+## Non-functional requirements 
 1. The system shall rocess a submitted text message and display the analysis results within a reasonable response time.
 2. The system shall provide a simple and user-friendly interface that allows users to submit messages and understand the results easily.
 3. The system shall handle valid message inputs consistently and display appropriate error messages when analysis fails.
