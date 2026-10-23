@@ -3,7 +3,7 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+By the end of this sprint, I will improve my project documentation by adding acceptance criteria to user stories, linking user stories to numbered requirements, and updating the README with the project structure and roadmap.
 
 ### Sprint backlog
 | Issue | Task | Status |
